@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.navbar{
+    height: 60px;
+}
+.home{
+    background-image: url("../images/Graff-Tribal_banner.jpg");
+    background-size: cover;
+    height: 800px;
+    margin-top: 10px;
+    position: relative;
+}
+.home-title{
+    padding-top: 400px;
+    margin-left: 80px;
+    letter-spacing: 2px;
+    color: #fff;
+}
+.text{
+    margin-left: 80px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    color: #fff;
+}
+.nav li a{
+    color:rgb(2, 2, 131);
+}
+.btn5{
+    margin-left: 80px;
+    background-color: #fff;
+    color: rgb(2, 2, 131);
+    font-size: 21px;
+}
+.header{
+    margin-top: 50px;
+    text-align: center;
+}
+.card-body a{
+   text-decoration: none;
+    color: black;
+}
+.line{
+    width: 100px;
+    height: 5px;
+    background-color: rgb(2, 2, 131);
+    margin-left: 720px;
+}
+button{
+   width: 150px;
+   height: 50px;
+   background-color: rgb(2, 2, 131);
+   border: 0;
+   border-radius: 5px;
+   color: #fff;
+}
+.card-body button a{
+    font-size: 21px;
+}
+
+.card{
+    margin: 15px;
+}
+.card:hover{
+    transform: scale(0.9,0.9);
+    transition: 0.5s;
+}
+#content{
+  margin: auto;
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 2px rgb(168, 165, 165);
+  margin-top: 10px;
+}
+.btn1{
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 170px;
+}
+#price{
+    height: 60px;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: rgb(2, 2, 131);
+    color: #fff;
+    font-size: 25px;
+    padding-left: 600px;
+    
+}
+.p2{
+    color: #fff;
+    font-size: 25px;
+   
+}
